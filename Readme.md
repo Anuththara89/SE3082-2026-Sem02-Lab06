@@ -3,8 +3,8 @@ e
 ![lab](/resources/pclogo-2-2.png)
 ## <div align="center">Lab 05</div>
 
-1. Write a serial and parallel program that uses OpenMP solving issues related to Data Races
-
+1. Write a serial and parallel program that uses OpenMP
+   
 ## Instructions
 
 1. Use your AWS EC2 instance or another linux instance that has openmp to complete the Lab Exercises
